@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121329982865",
+    "project_id": "food-track-app-4ffec",
+    "storage_bucket": "food-track-app-4ffec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121329982865:android:31a7eb0445d31c26758e30",
+        "android_client_info": {
+          "package_name": "com.example.railway_food_ordering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121329982865-m3m3th1t9jc5sgoqcvfu1senge9q5bif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTsjvo2dX6G28oTQQPxEiOAnetlADb4dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121329982865-m3m3th1t9jc5sgoqcvfu1senge9q5bif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
